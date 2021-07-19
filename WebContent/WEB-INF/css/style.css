@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.contenedor{
+	width: 700px;
+	height: 500px;
+	text-align:center;
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+}
